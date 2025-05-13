@@ -238,7 +238,6 @@ Powered by Vercel
 
 <!-- by 梁展毓 -->
 
-<<<<<<< HEAD
 ## 开发指南
 
 ### 代码结构说明
@@ -287,8 +286,6 @@ Powered by Vercel
 
 此结构保证了关注点的分离，使项目更易于维护和扩展。
 <!-- by 沈家昊-->
-=======
->>>>>>> upstream/master
 
 <!-- by 程俊豪 -->
 今日热榜用户指南（User Guide）

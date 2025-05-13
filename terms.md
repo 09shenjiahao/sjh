@@ -61,7 +61,6 @@
 - API Address / API 地址
 - Node.js Official Website / Node.js 官方网站
 - Corepack / Corepack
-<<<<<<< HEAD
 # 术语表
 
 
@@ -70,8 +69,6 @@
 - 懒加载 (Lazy Loading)
 - 依赖管理 (Dependency Management)
 - Fork 仓库 (Fork Repository)
-=======
->>>>>>> upstream/master
 
 <!-- by 程俊豪 -->
 🧠 1. 功能与架构相关术语（Features & Architecture）
